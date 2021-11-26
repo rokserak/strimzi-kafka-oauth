@@ -1,0 +1,8 @@
+**/*.md
+LICENSE
+target/
+testsuite/
+.travis*
+.spotbugs/
+.idea/
+.github/
